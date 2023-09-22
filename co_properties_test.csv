@@ -1,0 +1,51 @@
+title,department,city,property_type,latitude,longitude,surface_total,surface_covered,bedrooms,bathrooms,operation_type,price
+Apartamento En Venta En Cali Normandia Cod. VKWR10402426,Valle del Cauca,Cali,Apartamento,3.453,-76.544,135.0,135.0,3.0,4.0,Venta,550000000.0
+Apartamento En Venta En Medellin Oviedo Cod. VRAZ1118,Antioquia,Medellín,Apartamento,6.199,-75.574,135.0,135.0,3.0,3.0,Venta,490000000.0
+Apartamento En Arriendo En Barranquilla El Valle Cod. AFNC101120,Atlántico,Barranquilla,Apartamento,10.968,-74.81,65.0,65.0,3.0,2.0,Arriendo,850000.0
+Apartamento En Venta En Cali Urbanizacin Tequendama Cod. VKWR10440001,Valle del Cauca,Cali,Apartamento,3.419,-76.544,92.0,92.0,3.0,2.0,Venta,240000000.0
+Apartamento En Arriendo/venta En Barranquilla La Floresta Cod. VIMC9441,Atlántico,Barranquilla,Apartamento,11.023,-74.808,62.0,62.0,3.0,2.0,Venta,190000000.0
+Apartamento En Arriendo En Cali Valle Del Lili Cod. ASUM462076,Valle del Cauca,Cali,Apartamento,3.379,-76.519,73.0,73.0,3.0,2.0,Arriendo,1100000.0
+Apartaestudio En Arriendo En Barranquilla San Francisco Cod. ABGG-101298,Atlántico,Barranquilla,Apartamento,11.002,-74.793,50.0,50.0,1.0,1.0,Arriendo,1100000.0
+Apartamento En Arriendo En Bogota Colina - Iberia Cod. ADUR4367,Cundinamarca,Bogotá D.C,Apartamento,4.72,-74.06,58.0,58.0,3.0,2.0,Arriendo,1050000.0
+Apartaestudio En Venta En Cali San Fernando Cod. VSUM461820,Valle del Cauca,Cali,Apartamento,3.43,-76.542,30.0,30.0,2.0,1.0,Venta,85000000.0
+Apartamento En Venta En Bogota Cedritos-Usaqun Cod. VMIS1034011,Cundinamarca,Bogotá D.C,Apartamento,4.721,-74.036,118.0,88.0,3.0,3.0,Venta,570000000.0
+Apartamento En Arriendo En Bucaramanga Coaviconsa Cod. AJRE10410,Santander,Bucaramanga,Apartamento,7.087,-73.123,72.0,72.0,3.0,2.0,Arriendo,780000.0
+Consultorio En Venta En Medellin El Tesoro Cod. VRAZ1192,Antioquia,Medellín,Oficina,6.197,-75.558,39.0,39.0,2.0,1.0,Venta,430000000.0
+Apartamento En Venta En La Estrella La Bermejala Cod. VKWR11901697,Antioquia,La Estrella,Apartamento,6.155,-75.629,50.0,50.0,2.0,2.0,Venta,192000000.0
+Casa En Arriendo En Barranquilla Villa Campestre Cod. AADC41942,Atlántico,Barranquilla,Casa,10.982,-74.765,108.0,108.0,3.0,2.0,Arriendo,1600000.0
+Apartamento En Arriendo En Bucaramanga San Francisco Cod. ACLV-6182,Santander,Bucaramanga,Apartamento,7.132,-73.126,90.0,90.0,3.0,2.0,Arriendo,750000.0
+Casa En Arriendo En Bogota Soltileza Cod. ARYG10653,Cundinamarca,Bogotá D.C,Casa,4.733,-74.079,300.0,215.0,4.0,3.0,Arriendo,5000000.0
+Apartamento En Venta En Cali La Campia Cod. VVLZ2832,Valle del Cauca,Cali,Apartamento,3.478,-76.527,133.0,133.0,3.0,4.0,Venta,410000000.0
+Apartaestudio En Arriendo En Bogota Santa Barbara Oriental-Usaqun Cod. AREI-16543,Cundinamarca,Bogotá D.C,Apartamento,4.697,-74.042,60.0,50.0,1.0,2.0,Arriendo,2700000.0
+Apartamento En Arriendo En Cali Caney Cod. AJMI9072,Valle del Cauca,Cali,Apartamento,3.38,-76.523,77.0,77.0,3.0,2.0,Arriendo,1300000.0
+Apartamento En Venta En Bogota Cedritos-Usaqun Cod. VEST1460,Cundinamarca,Bogotá D.C,Apartamento,4.723,-74.04,104.0,104.0,3.0,2.0,Venta,680000000.0
+Casa En Venta En Jardin Jardin Suroeste Cod. VRPR8066,Antioquia,Jardín,Casa,5.598,-75.819,140.0,140.0,3.0,2.0,Venta,399900000.0
+Casa En Venta En Barranquilla Paraiso Cod. VARE83504,Atlántico,Barranquilla,Casa,11.016,-74.806,360.0,300.0,6.0,5.0,Venta,730000000.0
+Apartamento En Venta En Cali Altos De Menga Cod. VSBI12526,Valle del Cauca,Cali,Apartamento,3.489,-76.529,55.0,6.0,2.0,1.0,Venta,155000000.0
+Apartamento En Arriendo En Bogota El Chico Cod. ABKS2457,Cundinamarca,Bogotá D.C,Apartamento,4.672,-74.048,118.0,118.0,2.0,3.0,Arriendo,6000000.0
+Casa En Arriendo En Bogota Pontevedra Cod. ASII-93,Cundinamarca,Bogotá D.C,Casa,4.7,-74.078,287.0,261.0,4.0,4.0,Arriendo,3800000.0
+Apartamento En Venta En Cali Bochalema Cod. VAJL2769619,Valle del Cauca,Cali,Apartamento,3.358,-76.519,57.0,57.0,2.0,2.0,Venta,150000000.0
+Apartamento En Venta En Barranquilla Boston Cod. VFNC-100613,Atlántico,Barranquilla,Apartamento,10.988,-74.795,84.0,84.0,3.0,2.0,Venta,190000000.0
+Apartamento En Venta En Bogota El Chico Cod. VONE12109878,Cundinamarca,Bogotá D.C,Apartamento,4.679,-74.05,105.0,105.0,2.0,2.0,Venta,595000000.0
+Apartamento En Arriendo En Barranquilla Las Delicias Cod. AFNC3457,Atlántico,Barranquilla,Apartamento,10.987,-74.804,75.0,75.0,3.0,2.0,Arriendo,820000.0
+Apartamento En Venta En Bogota Chiconavarra Cod. VGES1474285,Cundinamarca,Bogotá D.C,Apartamento,4.687,-74.053,132.0,132.0,3.0,3.0,Venta,1150000000.0
+Apartamento En Arriendo En Bogota Chico Norte Iii Cod. ACOND35050,Cundinamarca,Bogotá D.C,Apartamento,4.684,-74.053,45.0,45.0,1.0,2.0,Arriendo,2704100.0
+Local En Arriendo En Bogota Madelena Cod. ADUR4538,Cundinamarca,Bogotá D.C,Local comercial,4.596,-74.153,36.0,36.0,1.0,1.0,Arriendo,2000000.0
+Apartamento En Venta En Sabaneta Sabaneta Cod. VRPR8161,Antioquia,Sabaneta,Apartamento,6.148,-75.613,122.0,122.0,3.0,4.0,Venta,620000000.0
+Apartamento En Arriendo En Envigado Pontevedra Cod. ASUR21886,Antioquia,Envigado,Apartamento,6.177,-75.584,92.0,92.0,3.0,2.0,Arriendo,2200000.0
+Casa En Arriendo En Bogota Granada Norte Cod. AASV7282,Cundinamarca,Bogotá D.C,Casa,4.752,-74.051,67.0,67.0,3.0,2.0,Arriendo,1150000.0
+Apartamento En Venta En Medellin Robledo Cod. VRPR7859,Antioquia,Medellín,Apartamento,6.285,-75.61,47.0,47.0,3.0,1.0,Venta,160000000.0
+Casa En Venta En Envigado Loma De Los Benedictos Cod. VMUR2539,Antioquia,Envigado,Casa,6.178,-75.571,335.0,296.0,3.0,4.0,Venta,1400000000.0
+Apartaestudio En Arriendo En Bogota San Felipe-Barrios Unidos Cod. AGES1474207,Cundinamarca,Bogotá D.C,Apartamento,4.663,-74.062,40.0,40.0,1.0,1.0,Arriendo,1970000.0
+Apartamento En Arriendo En Cali Ciudad 2000 Cod. ACMP2117,Valle del Cauca,Cali,Apartamento,3.395,-76.52,70.0,70.0,3.0,2.0,Arriendo,800000.0
+Oficina En Arriendo/venta En Bogota Boyac Cod. VCJE724,Cundinamarca,Bogotá D.C,Oficina,4.683,-74.1,48.0,192.0,4.0,5.0,Venta,350000000.0
+Apartamento En Venta En Cali San Vicente Cod. VSHI-504,Valle del Cauca,Cali,Apartamento,3.463,-76.524,102.0,102.0,3.0,2.0,Venta,200000000.0
+Apartamento En Arriendo En Bogota Lisboa-Usaqun Cod. A341-2183,Cundinamarca,Bogotá D.C,Apartamento,4.714,-74.034,52.0,52.0,1.0,1.0,Arriendo,1323000.0
+Casa En Venta En Medellin Loma De Los Bernal Cod. VSUR107430,Antioquia,Medellín,Casa,6.219,-75.603,84.0,84.0,3.0,3.0,Venta,300000000.0
+Apartamento En Venta En Barranquilla Altos De Riomar Cod. VARG32078847,Atlántico,Barranquilla,Apartamento,11.019,-74.821,116.0,116.0,3.0,2.0,Venta,445000000.0
+Apartamento En Arriendo En Bucaramanga Porvenir Cod. ACLV6293,Santander,Bucaramanga,Apartamento,7.082,-73.13,70.0,70.0,3.0,2.0,Arriendo,700000.0
+Apartamento En Arriendo En Medellin Carlos E Restrepo Cod. AMER208848,Antioquia,Medellín,Apartamento,6.258,-75.58,118.0,118.0,3.0,2.0,Arriendo,2000000.0
+Apartamento En Arriendo En Bogota Chapinero Alto Cod. AINP22316,Cundinamarca,Bogotá D.C,Apartamento,4.643,-74.061,85.0,85.0,2.0,3.0,Arriendo,2400000.0
+Apartamento En Venta En Bogota Bosa Cod. VBGU64,Cundinamarca,Bogotá D.C,Apartamento,4.617,-74.186,52.0,52.0,3.0,2.0,Venta,120000000.0
+Apartamento En Arriendo En Envigado Primavera Cod. ASUR-17426,Antioquia,Envigado,Apartamento,6.163,-75.599,60.0,60.0,3.0,2.0,Arriendo,1300000.0
+Apartamento En Arriendo En Barranquilla Recreo Cod. AARE76272,Atlántico,Barranquilla,Apartamento,10.99,-74.813,92.0,92.0,3.0,2.0,Arriendo,1500000.0
